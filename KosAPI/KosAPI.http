@@ -1,0 +1,6 @@
+@KosAPI_HostAddress = http://localhost:5131
+
+GET {{KosAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
