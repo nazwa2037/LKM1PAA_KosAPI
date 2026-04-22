@@ -1,4 +1,4 @@
-﻿# Kos API
+# Kos API
 
 ## Deskripsi Project
 Kos API merupakan REST API sederhana untuk mengelola data kos, yang meliputi data kamar, penghuni, serta pencatatan pembayaran.
